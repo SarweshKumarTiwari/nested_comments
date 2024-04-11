@@ -1,44 +1,44 @@
 var _a;
 var comments = [
     {
-        name: "Saurabh",
+        name: "John",
         message: "This demo uses reccursion to show comments and replies",
         reply: [
             {
-                name: "Samdish Ji",
-                message: "Agreed 100% &#x1F44D",
+                name: "Sam",
+                message: "Agreed 100% ",
                 reply: [
                     {
-                        name: "Ramesh",
+                        name: "George",
                         message: "how i did not see anything",
                         reply: [
                             {
-                                name: "Samdish Ji",
+                                name: "John",
                                 message: "Please spicify if there is an problem",
                                 reply: []
                             }
                         ]
                     },
                     {
-                        name: "Suresh",
+                        name: "Neil",
                         message: "ok then some talked about it",
                         reply: []
                     }
                 ]
             },
             {
-                name: "Larry Collins",
+                name: "Larry",
                 message: "This tutorial helped me alot \n Thank u",
                 reply: []
             }
         ]
     },
     {
-        name: "Sarvanand",
+        name: "Sarah",
         message: "Excellent Work keep doing it",
         reply: [
             {
-                name: "Aditya",
+                name: "Arnold",
                 message: "It may be debateble",
                 reply: [
                     {
