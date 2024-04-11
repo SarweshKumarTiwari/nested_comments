@@ -11,7 +11,7 @@ const comments: comment[] = [
         reply: [
             {
                 name: "Samdish Ji",
-                message: "Agreed 100% &#x1F44D",
+                message: "Agreed 100% ",
                 reply: [
                     {
                         name: "Ramesh",
